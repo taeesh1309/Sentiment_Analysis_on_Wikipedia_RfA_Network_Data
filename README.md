@@ -74,4 +74,4 @@ This project investigates the dynamics of the Request for Adminship (RfA) proces
   Email: shahfaraz@vt.edu  
 
 ## References
-Refer to the [report](link-to-report.pdf) for full implementation details, visualizations, and analysis.
+Refer to the [report](Sentiment_Analysis_on_Wikipedia_RfA_Network_Data.pdf) for full implementation details, visualizations, and analysis.
